@@ -24,12 +24,8 @@
   ],
   "scripts": {
     "bench": "make bench",
-    "test": "make test",
-    "postinstall": "cd ./node_modules/babel-core-5-patched && npm install && npm run build"
+    "test": "make test"
   },
-   "precommit": [
-     "build"
-   ],
   "dependencies": {
     "babel-plugin-constant-folding": "^1.0.1",
     "babel-plugin-dead-code-elimination": "^1.0.2",
