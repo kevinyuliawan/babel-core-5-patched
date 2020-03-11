@@ -1,7 +1,7 @@
 {
   "name": "babel-core",
   "version": "5.8.38",
-  "description": "A compiler for writing next generation JavaScript",
+  "description": "A patched compiler for writing next generation JavaScript",
   "author": "Sebastian McKenzie <sebmck@gmail.com>",
   "homepage": "https://babeljs.io/",
   "license": "MIT",
