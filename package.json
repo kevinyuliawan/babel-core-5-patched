@@ -26,6 +26,9 @@
     "bench": "make bench",
     "test": "make test"
   },
+   "precommit": [
+     "build"
+   ],
   "dependencies": {
     "babel-plugin-constant-folding": "^1.0.1",
     "babel-plugin-dead-code-elimination": "^1.0.2",
